@@ -22,4 +22,4 @@ int main(void){
     std::cout << sum << std::endl;
 }
 
-Answer: 233168
+//Answer: 233168
